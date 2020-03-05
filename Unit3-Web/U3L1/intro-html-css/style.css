@@ -5,11 +5,7 @@ body {
     margin: 2em;
   }
   
-  h1 {
+h1 {
     font-style: italic;
     color: #37ffde;
-  }
-  
-  .custom-content {
-    color: red;
   }
