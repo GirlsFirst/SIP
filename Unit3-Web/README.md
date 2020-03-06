@@ -1,6 +1,8 @@
 # Unit 3: Intro to Web Development
 Below is the starter code for each lesson.
 
+*Note to self - if there is only one starter code per activity, change format.*
+
 ## Lesson 1: Intro to HTML/CSS
 ### Exploration Activities
 #### Intro to HTML/CSS
