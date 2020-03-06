@@ -1,0 +1,1 @@
+This project is adapted from the [2D breakout game using pure JavaScript](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript) created for Mozilla by the amazing MDN contributors.
