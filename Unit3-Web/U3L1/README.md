@@ -1,2 +1,10 @@
-##Unit 3 Lesson 1
-All starter code here
+# Lesson 1: Intro to HTML/CSS
+
+## Exploration Activities
+### Starter Code
+- intro-html-css
+- flexbox-starter
+
+## Project 
+### Starter Code
+- photo-editor
