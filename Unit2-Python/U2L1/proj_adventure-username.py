@@ -1,26 +1,52 @@
 '''
-proj_adventure_<username>.py
+proj_rps_<username>.py
 Description: 
-Sample Scratch Project:
 
 Author: 
 Date Created: 
-
 '''
 
-#TODO: Write the opening part of the story
+import random
+
+#Part 1: Introduction and Start of the Game
+#TODO: Write the opening introduction of your game
+
+
+
+#TODO: Add variables to use throughout the program in this section
+choices = ["rock", "paper", "scissors"]
+
+
+
+#Part 2: Running Each Round
+#TODO: Update while loop to loop through as many rounds as you want for your game!
+while (              ):
+    #TODO: Ask for player's choice
+
+
+    #Randomly chooses the computer's choice from the choices list.
+    #The computer's choice will either be "rock", "paper", or "scissors"
+    comp = random.choice(choices)
+    print ("The computer chose" + comp)
+
+    #TODO: Add rules of game
 
 
 
 
 
-#TODO: Create a variable to hold the user's response to your first question and ask the first question.
-
-
-#TODO: Write an if conditional that checks the answer to your question
 
 
 
+    #TODO: Increment the round variable
+    
+    
+    
+#Part 3: Finishing Results and End of the Game
+#TODO: Determine the overall winner
 
 
-#TODO: Write an else conditional if the condition is not met
+
+
+
+#TODO: Add a statement here to let your player know the game has ended!
